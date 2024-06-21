@@ -293,6 +293,6 @@ DistroLauncher/MSG*.bin
 DistroLauncher/messages.rc
 DistroLauncher/messages.h
 *.lib
-*.dll
+*.r
 *.exe
 *.tar.gz
